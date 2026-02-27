@@ -1,7 +1,7 @@
 # Heart Disease  Prediction Dashboard  
 ### Predictive Analytics with Machine Learning in Tableau
 ---
-![Dashboard Preview](./Dashboard_preview.png)
+![Dashboard Preview](./dashboard_preview.png)
 
 ---
 
